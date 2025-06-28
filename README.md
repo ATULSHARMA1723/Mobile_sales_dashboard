@@ -6,9 +6,8 @@ This Power BI dashboard provides an interactive and insightful analysis of mobil
 
 # Purpose:
 To track and analyze mobile sales performance across various dimensions (brand, model, time, payment method, and customer feedback) and provide actionable insights for marketing, inventory planning, and customer satisfaction improvement.
-Key Features:
-
-# KPI Tiles:
+# Key Features:
+ # KPI Tiles:
 
 Total Sales: ₹769M
 
